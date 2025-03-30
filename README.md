@@ -1,1 +1,0 @@
-# Impact_attenuation_test_machine
